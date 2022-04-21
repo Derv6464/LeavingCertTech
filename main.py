@@ -267,5 +267,4 @@ while True:
                 
     else:
         lcd.backlight_off()
-        print([rtc.datetime()[4],rtc.datetime()[5],rtc.datetime()[6]])
-        print(dose1)
+
